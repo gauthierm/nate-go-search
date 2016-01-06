@@ -1,0 +1,29 @@
+{
+	"name": "silverorange/nate_go_search",
+	"description": "Fulltext search indexer and engine.",
+	"type": "library",
+	"keywords": [ "search", "indexer" ],
+	"homepage": "https://github.com/silverorange/nate-go-search",
+	"license": "LGPL-2.1",
+	"authors": [
+		{
+			"name": "Nathan Fredrickson",
+			"email": "nathan@silverorange.com"
+		},
+		{
+			"name": "Michael Gauthier",
+			"email": "mike@silverorange.com"
+		}
+	],
+	"require": {
+		"php": ">=5.2.1",
+		"pear/mdb2": "^2.2.2",
+		"silverorange/silverorange_autoloader": "*"
+	},
+	"autoload": {
+		"files": [ "autoload.php" ]
+	},
+	"include-path": [
+		"./"
+	]
+}
