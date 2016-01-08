@@ -7,12 +7,12 @@
 	"license": "LGPL-2.1",
 	"authors": [
 		{
-			"name": "Nathan Fredrickson",
-			"email": "nathan@silverorange.com"
-		},
-		{
 			"name": "Michael Gauthier",
 			"email": "mike@silverorange.com"
+		},
+		{
+			"name": "Nathan Fredrickson",
+			"email": "nathan@silverorange.com"
 		}
 	],
 	"require": {
