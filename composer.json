@@ -17,7 +17,7 @@
 	],
 	"require": {
 		"php": ">=5.2.1",
-		"pear/mdb2": "^2.2.2",
+		"silverorange/mdb2": "^2.4.1",
 		"silverorange/silverorange_autoloader": "*"
 	},
 	"autoload": {
